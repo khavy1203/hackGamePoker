@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "dogwood-goods-394106",
+    "private_key_id": "4711e986aeed368956ef88d23814599f2a0efe88",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0Foop0jvwShDK\nJo5aqIJQGqJK79yEur1wBotc/0+6JcykwrOAxoq8zN4nMNpWu4UG+Lf+Bq6O3A/R\n2RG6e9O21n40jtU0uxVXpxavph/LCP+/xR5gNOYTTwZJLl5yXzCvQbgv/+nC7n5+\n5YYCYeOIeyVk3qpBNMs9t9X4Rq/i+ttyFNh8tAvJnmAhU7OY8ZNAwQy9awOfBd3e\nbNBMxwEapGq9ey1fsMq1iiP9NgFpQP/pJNM8+GJRpGSQe0QX9DTErOieast3kMmO\nwsG+HcuofuNgDyaBIDJA3UB/EubzNkDzz6jeyD/B9RHknfwS93HSQWNGATmyRWpU\nMwdc316LAgMBAAECggEARjRNOz16YVO2VOAP+bacSnb/kqAMQu/7fqsGdEQRhBtN\nOmOuj4KWvkBNUFDipRIoK04ViCF5tjaCskdhemXgZHQcsgeGhS5zhP6dwO7NkRya\nettw2od0s81IQYoihoqmU4QWthuZOQU5aeW3RsF7bo63RqnpDE909cPvVYDU+3Ix\nYuubYU/8RP+XM1ZMIgRcIImY51CWh6BSg20/49s6nxvsEpHbtyFSEjc1X9XxeIVX\n2Wa23wi32WucSNXF8V5+X564B1dNu+myvYJlfLfBeLU6QrF3B9f0366O6b17WatP\n/8oknNr555dbKlJYDogz3MTImCg9Z7ipb083soQpOQKBgQDZjPw0bATSmv+aLGI7\nvpJU9p7gd+Gf58h8D4SWT6GzlBgb/m4zJJIMz4wni4ZJqn5LZKpzX5ufagG0Xjud\n3kDal6Nb593lH2FAF7rCaHfS9/Pftz1AstHlRogIBrB4tkBJXRyv21SZJ4YA0JNB\nTRAFQd4bgLgWGJT+Dsv9Ljc+eQKBgQDT6pE8SD4Zl/5by0EfrCd1rAnHijR0iE/V\nMV9iEDugwnfaycC/Cr9WfXGq/WJefGdoZFPk8y9zjH4XtH69C3z+108VQx6uq5lj\nbSZmCj/Mi9J5LoGwZ8ZUegAaeM+4Nd6y2rgy/sGlJQeyOccZiPGbCazjykRy8gLb\nce44vlt0IwKBgEZFTP3d2lzw5hk1tvFXaEr7cmxNLNsK8m5oUMqApFmuP29jatMo\nP+jVbY8keVb4NF1EAe7MdiczBaPuQFGJBefVzVWVes5UqYQbZh7/wZyqrOKZfLaW\nTEhD1RLKnlwPeop4AhknvpbN9nHy7W3NZ5xbH1RA6rVwcUfzHZ8FO6D5AoGBAJp3\nTinclrddHOCYBP4rJBAXuIEj8hxHB7nkZRw7rNr/JRHrIX2fPdyzT1lNnJg2ocFr\n7+Lgh+P3silhPUhayV+QXWqoJAM5vXLFqsmSCvLzsBT4mzuUSPJmgxDIotApJAzG\ndKFnJItVtIhqqP+p3EIgCU94rfADC6YdI4Fk75B1AoGAG2HmwXQHfxqFexRxeJKA\nGu3DsT/PdxZvjbaNV7pxUNSFI8PgELeFliutAno+hJePi2dC5uGmshBH4HItHNTv\noL5x2pDik1ROIeQh5cbkcRQPBa2J6w/FPjCb4xqJTNlH3yjULC4/NQtQFn8nHK/z\nTuNGLRSii8acYG+UmbMINHM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "googlesheetapikvy@dogwood-goods-394106.iam.gserviceaccount.com",
+    "client_id": "101276893351215750567",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetapikvy%40dogwood-goods-394106.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
